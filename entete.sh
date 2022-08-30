@@ -4,7 +4,7 @@
 # Auteur : Dalton Labrecque
 # Description: Écris une entête avec date du jour dans un fichier passé en paramètre
 #
-# Date : 2022-08-30
+# Date : 2022-08-30 à 11heures
 # -----------------------------------------------------------------------------
 #Prend en compte le paramètre
 #Saisir le nom du fichier en paramètre
