@@ -1,5 +1,4 @@
-
-#!/usr/bin/bash
+adsaDAdadaDADAdsaDAdaDadsaDADAda
 # -----------------------------------------------------------------------------
 # Auteur : Dalton Labrecque
 # Description: Écris une entête avec date du jour dans un fichier passé en paramètre
