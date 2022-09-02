@@ -13,7 +13,7 @@ fichier=$1
 compteur=1
 
 
-
+dfjdskljflkadsjklfjds;lkfjdaskljfkldsjflksdhlgfjdskl;dshl
 #Lis chacune des ligne du fichier
 for line in $(cat $fichier);
 do
